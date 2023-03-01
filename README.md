@@ -1,5 +1,5 @@
 # IT_Resume
-<h1>Hi, I'm Cris<a href="https://www.linkedin.com/in/chris-napoleon-60633925a/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Chris <a href="https://www.linkedin.com/in/chris-napoleon-60633925a/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
